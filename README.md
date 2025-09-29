@@ -5,3 +5,8 @@
 ```bash
 g++ main.cpp -o calc
 ```
+
+Запуск:
+```bash
+./calc
+```
